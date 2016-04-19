@@ -16,7 +16,7 @@
  
     "autoload": {
         "psr-0": {
-            "woody\\wxpay\\": "src/"
+            "woody\\wxpay\\": "src"
         }
     }
 }
