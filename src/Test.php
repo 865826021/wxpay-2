@@ -6,9 +6,9 @@ namespace woody\wxpay;
 class Test
 {
 	
-	function __construct(argument)
-	{
-		# code...
+	function hh() {
+		return 'test';
+		
 	}
 }
 
